@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @dhas97
-- 👀 I’m interested in ...doing data analysis project
-- 🌱 I’m currently learning ...google data analytics
-- 💞️ I’m looking to collaborate on ...doing project
+### 👋 Hi, I'm @dhas97  
+
+🔹 **Passionate Data Enthusiast** | Python 🐍 | SQL 🗄️ | Power BI 📊 | Tableau 📈  
+
+- 👀 I’m interested in **Data Analysis, Python Development, and Automation**.  
+- 🌱 I’m currently learning **Google Data Analytics & Advanced SQL Techniques**.  
+- 💡 I love working with **real-world datasets** to uncover insights and improve decision-making.  
+- 💞️ I’m looking to collaborate on **Data Analysis, Machine Learning, and Business Intelligence projects**.  
+- 🚀 Always exploring **new technologies in the data field**. 
 - 📫 How to reach me https://www.linkedin.com/in/dhasarathan-t-1a9b32165/
 
 <!---
