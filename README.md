@@ -3,7 +3,7 @@
 🔹 **Passionate Data Enthusiast** | Python 🐍 | SQL 🗄️ | Power BI 📊 | Tableau 📈  
 
 - 👀 I’m interested in **Data Analysis, Python Development, and Automation**.  
-- 🌱 I’m proficient in **Google Data Analytics & Advanced SQL Techniques**.  
+- 🌱 I’m proficient in ** Data Analytics & Advanced SQL Techniques**.  
 - 💡 I love working with **real-world datasets** to uncover insights and improve decision-making.  
 - 💞️ I’m looking to collaborate on **Data Analysis, Machine Learning, and Business Intelligence projects**.  
 - 🚀 Always exploring **new technologies in the data field**. 
