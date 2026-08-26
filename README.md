@@ -64,8 +64,8 @@ End-to-end Retrieval-Augmented Generation pipeline for natural-language Q&A over
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhas97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhas97&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=dhas97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dhas97&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -79,14 +79,6 @@ End-to-end Retrieval-Augmented Generation pipeline for natural-language Q&A over
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,linux,postman,vscode" />
 
 `OpenAPI / Swagger` `WebSocket` `Microservices` `JWT` `Jest` `SonarQube` `MkDocs` `Agile / Scrum`
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhas97&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
