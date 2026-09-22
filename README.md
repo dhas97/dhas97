@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 💻 Full-stack developer with **3.5+ years** of experience building scalable web applications
+- 💻 Full-stack developer with **4 years** of experience building scalable web applications
 - 🏢 Currently a **Software Consultant** at **Infinite Services**, architecting production-grade apps and CI/CD pipelines
 - 🌐 Comfortable across the stack — **Node.js / Express.js / React.js** on one side, **Python / Django** on the other
 - 🗄️ Strong focus on **RESTful API design** and database performance tuning (MySQL, MS SQL Server)
